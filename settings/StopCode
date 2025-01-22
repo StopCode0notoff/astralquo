@@ -1,0 +1,72 @@
+{
+    "dpi_scale": 1,
+    "hotkeys": [
+        {
+            "hash": 3101920563,
+            "key": 4,
+            "show_in_hotkeys": true,
+            "type": 1
+        },
+        {
+            "hash": 3127922149,
+            "key": 6,
+            "show_in_hotkeys": true,
+            "type": 1
+        },
+        {
+            "hash": 4241611886,
+            "key": 18,
+            "show_in_hotkeys": true,
+            "type": 0
+        },
+        {
+            "hash": 3279772477,
+            "key": 5,
+            "show_in_hotkeys": true,
+            "type": 0
+        },
+        {
+            "hash": 3047046576,
+            "key": 67,
+            "show_in_hotkeys": true,
+            "type": 1
+        },
+        {
+            "hash": 772333763,
+            "key": 90,
+            "show_in_hotkeys": true,
+            "type": 1
+        },
+        {
+            "hash": 3406903387,
+            "key": 88,
+            "show_in_hotkeys": true,
+            "type": 1
+        },
+        {
+            "hash": 623820409,
+            "key": 70,
+            "show_in_hotkeys": true,
+            "type": 1
+        },
+        {
+            "hash": 3374715908,
+            "key": 16,
+            "show_in_hotkeys": true,
+            "type": 0
+        },
+        {
+            "hash": 849258826,
+            "key": 86,
+            "show_in_hotkeys": true,
+            "type": 0
+        },
+        {
+            "hash": 2337947506,
+            "key": 84,
+            "show_in_hotkeys": true,
+            "type": 1
+        }
+    ],
+    "version": 1
+}

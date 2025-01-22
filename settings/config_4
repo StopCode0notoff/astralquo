@@ -1,0 +1,247 @@
+{
+    "settings": {
+        "antiaim.enable": true,
+        "antiaim.fakelag": 1,
+        "antiaim.triggers[0].align_by_target": 1,
+        "antiaim.triggers[0].jitter_angle": 10,
+        "antiaim.triggers[0].jitter_type": 2,
+        "antiaim.triggers[1].jitter_angle": 2,
+        "antiaim.triggers[3].override_default": true,
+        "antiaim.triggers[3].pitch": 4,
+        "antiaim.triggers[5].jitter_angle": 25,
+        "antiaim.triggers[5].jitter_type": 2,
+        "antiaim.triggers[5].pitch": 4,
+        "antiaim.triggers[6].jitter_angle": 42,
+        "antiaim.triggers[6].jitter_type": 2,
+        "antiaim.triggers[6].override_default": true,
+        "antiaim.triggers[6].spin_range": 360,
+        "antiaim.triggers[6].spin_speed": 360,
+        "antiaim.triggers[7].override_default": true,
+        "antiaim.triggers[7].pitch": 3,
+        "antiaim.triggers[7].randomize_desync": true,
+        "antiaim.triggers[7].yaw_add": 180,
+        "bullets.client_impact_colors[1]": {
+            "a": 0,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "bullets.client_impacts": true,
+        "bullets.impacts_size": 10,
+        "bullets.tracer_color": {
+            "a": 255,
+            "b": 255,
+            "g": 159,
+            "r": 71
+        },
+        "configs.config_number": 3,
+        "exploits.defensive_enable": true,
+        "exploits.defensive_flags": 15,
+        "exploits.immediate_teleport": true,
+        "grenade_esp.enable": true,
+        "grenade_esp.prediction": true,
+        "grenade_esp.prediction_color": {
+            "a": 255,
+            "b": 255,
+            "g": 135,
+            "r": 0
+        },
+        "hotkey_0": {
+            "key": 4,
+            "type": 1
+        },
+        "hotkey_1": {
+            "key": 6,
+            "type": 1
+        },
+        "hotkey_10": {
+            "key": 16,
+            "type": 0
+        },
+        "hotkey_11": {
+            "key": 86,
+            "type": 0
+        },
+        "hotkey_12": {
+            "key": 0,
+            "type": 1
+        },
+        "hotkey_13": {
+            "key": 84,
+            "type": 1
+        },
+        "hotkey_2": {
+            "key": 18,
+            "type": 0
+        },
+        "hotkey_3": {
+            "key": 20,
+            "type": 0
+        },
+        "hotkey_4": {
+            "key": 0,
+            "type": 0
+        },
+        "hotkey_5": {
+            "key": 67,
+            "type": 1
+        },
+        "hotkey_6": {
+            "key": 90,
+            "type": 1
+        },
+        "hotkey_7": {
+            "key": 88,
+            "type": 1
+        },
+        "hotkey_8": {
+            "key": 0,
+            "type": 1
+        },
+        "hotkey_9": {
+            "key": 70,
+            "type": 1
+        },
+        "misc.autobuy.additional": 127,
+        "misc.autobuy.enable": true,
+        "misc.autobuy.main": 2,
+        "misc.autobuy.pistol": 4,
+        "misc.hitsound": true,
+        "misc.hitsound_type": 2,
+        "misc.hotkeys_list": true,
+        "misc.knife_bot": true,
+        "misc.log_filter": 15,
+        "misc.preserve_killfeed": true,
+        "misc.unlock_cvars": true,
+        "misc.unlock_inventory": true,
+        "movement.autostrafe": true,
+        "movement.bhop": true,
+        "movement.fast_stop": true,
+        "movement.leg_movement": 1,
+        "movement.peek_assist_colors[0]": {
+            "a": 255,
+            "b": 255,
+            "g": 101,
+            "r": 34
+        },
+        "movement.strafe_smooth": 15,
+        "player_esp.ammo.colors[0]": {
+            "a": 255,
+            "b": 255,
+            "g": 185,
+            "r": 106
+        },
+        "player_esp.ammo.font": 2,
+        "player_esp.chams[0].color": {
+            "a": 255,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "player_esp.chams[0].enable": true,
+        "player_esp.chams[0].overlays": 1,
+        "player_esp.chams[0].overlays_colors[0]": {
+            "a": 255,
+            "b": 36,
+            "g": 36,
+            "r": 78
+        },
+        "player_esp.chams[1].color": {
+            "a": 255,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "player_esp.chams[1].enable": true,
+        "player_esp.chams[1].overlays": 1,
+        "player_esp.chams[1].overlays_colors[0]": {
+            "a": 255,
+            "b": 61,
+            "g": 39,
+            "r": 35
+        },
+        "player_esp.chams[3].enable": true,
+        "player_esp.chams[5].color": {
+            "a": 0,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "player_esp.chams[5].enable": true,
+        "player_esp.chams[5].overlays": 1,
+        "player_esp.chams[5].overlays_colors[0]": {
+            "a": 255,
+            "b": 96,
+            "g": 62,
+            "r": 54
+        },
+        "player_esp.chams[8].color": {
+            "a": 255,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "player_esp.chams[8].enable": true,
+        "player_esp.chams[8].overlays": 1,
+        "player_esp.chams[8].overlays_colors[0]": {
+            "a": 255,
+            "b": 76,
+            "g": 50,
+            "r": 29
+        },
+        "player_esp.chams[8].overlays_colors[1]": {
+            "a": 255,
+            "b": 111,
+            "g": 90,
+            "r": 69
+        },
+        "player_esp.enable": true,
+        "player_esp.flags.value": 482,
+        "player_esp.glow.color": {
+            "a": 255,
+            "b": 108,
+            "g": 80,
+            "r": 41
+        },
+        "player_esp.glow.enable": true,
+        "player_esp.health.font": 2,
+        "player_esp.name.font": 2,
+        "ragebot.computing_limit": 1,
+        "ragebot.enable": true,
+        "ragebot.weapons[0].settings[0].hitboxes": 63,
+        "ragebot.weapons[0].settings[0].prefer_safepoint": false,
+        "ragebot.weapons[0].settings[0].priority_hitgroup": 2,
+        "ragebot.weapons[0].settings[0].quick_stop": true,
+        "ragebot.weapons[1].settings[1].body_scale": 35,
+        "ragebot.weapons[1].settings[1].head_scale": 50,
+        "ragebot.weapons[1].settings[1].hitboxes": 63,
+        "ragebot.weapons[1].settings[1].hitchance": 71,
+        "ragebot.weapons[1].settings[1].mindamage": 101,
+        "ragebot.weapons[1].settings[1].override_default": true,
+        "ragebot.weapons[1].settings[1].prefer_safepoint": false,
+        "ragebot.weapons[1].settings[1].quick_stop": true,
+        "skins.agent_ct": 4,
+        "skins.knife_model": 3,
+        "visuals.force_crosshair": true,
+        "visuals.hitmarker": 4,
+        "visuals.nightmode.skybox_color": {
+            "a": 255,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "visuals.override_scope": 1,
+        "visuals.removals": 62,
+        "visuals.sunsetmode.enable": true,
+        "visuals.sunsetmode.sunset_angle_y": -180,
+        "visuals.thirdperson_dist": 100,
+        "visuals.viewmodel_fov": 25,
+        "weapon_esp.ammo.colors[1]": {
+            "a": 255,
+            "b": 255,
+            "g": 152,
+            "r": 102
+        },
+        "weapon_esp.enable": true
+    }
+}

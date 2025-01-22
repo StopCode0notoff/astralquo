@@ -1,0 +1,76 @@
+{
+    "settings": {
+        "antiaim.enable": true,
+        "antiaim.triggers[0].desync_amount": 0,
+        "antiaim.triggers[0].force_off": true,
+        "antiaim.triggers[0].pitch": 3,
+        "configs.config_number": 1,
+        "exploits.defensive_enable": true,
+        "exploits.defensive_flags": 2,
+        "exploits.immediate_teleport": true,
+        "hotkey_0": {
+            "key": 4,
+            "type": 1
+        },
+        "hotkey_1": {
+            "key": 6,
+            "type": 1
+        },
+        "hotkey_10": {
+            "key": 16,
+            "type": 0
+        },
+        "hotkey_11": {
+            "key": 86,
+            "type": 0
+        },
+        "hotkey_12": {
+            "key": 0,
+            "type": 1
+        },
+        "hotkey_13": {
+            "key": 84,
+            "type": 1
+        },
+        "hotkey_2": {
+            "key": 18,
+            "type": 0
+        },
+        "hotkey_3": {
+            "key": 20,
+            "type": 0
+        },
+        "hotkey_4": {
+            "key": 0,
+            "type": 0
+        },
+        "hotkey_5": {
+            "key": 67,
+            "type": 1
+        },
+        "hotkey_6": {
+            "key": 90,
+            "type": 1
+        },
+        "hotkey_7": {
+            "key": 88,
+            "type": 1
+        },
+        "hotkey_8": {
+            "key": 0,
+            "type": 1
+        },
+        "hotkey_9": {
+            "key": 70,
+            "type": 1
+        },
+        "misc.hotkeys_list": true,
+        "movement.autostrafe": true,
+        "movement.bhop": true,
+        "movement.strafe_smooth": 132,
+        "ragebot.autofire": false,
+        "ragebot.computing_limit": 0,
+        "ragebot.enable": true,
+        "ragebot.silent": false
+    }
+}
